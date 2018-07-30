@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,throttle_debounce",
+    "logging_enabled": "false",
+    "name": "throttle_debounceSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "throttle_debounceSmokeTest.js"
+}
